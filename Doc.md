@@ -1,4 +1,10 @@
 # Date.js
+
+## 文档预览 
+**<a href="https://xue-shuai.github.io/Date.js/Doc">点击预览</a>**
+
+<hr>
+
 ## 目录
 ## <a href="#use">1. 使用方法</a>
 * <a href="#afterMin">计算n分钟之后的时间</a>
@@ -67,8 +73,8 @@ n: 指的是"年,月,日,时,分,秒",如果是个位数则给前面加个0
 <br>
 
 ## <a href="#" id="dev">开发者</a>
-> Author：xue-shuai\
-> E-mail：xueshuai_12@163.com\
-> blogs：https://cnblogs.com/xue-shuai\
-> Web:  http://xueshuai.top\
+> Author：xue-shuai<br>
+> E-mail：xueshuai_12@163.com<br>
+> blogs：https://cnblogs.com/xue-shuai<br>
+> Web:  http://xueshuai.top<br>
 > Date: 2019/11/13
